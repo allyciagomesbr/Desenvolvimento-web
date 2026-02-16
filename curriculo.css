@@ -1,0 +1,30 @@
+
+.container {
+    display: flex;
+    gap: 0px;              
+}
+
+
+.esquerda {
+    flex: 1; 
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+
+
+.direita {
+    flex: 2; 
+    padding: 80px;
+    background-color: #e0e0e0;
+}
+
+
+.esquerda img {
+    width: 200px;              
+    border-radius: 50%;        
+    display: block;            
+    margin: 0 auto 20px auto;   
+}
+
+
+
